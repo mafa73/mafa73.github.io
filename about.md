@@ -9,10 +9,6 @@ Kotlin is my preferred language
 
 Mostly work with Spring Boot and Vert.x
 
-### More Information
-
-Keep on learning new stuff
-
 ### Contact me
 
 [mattias.fagerstrom@gmail.com](mailto:mattias.fagerstrom@gmail.com)
