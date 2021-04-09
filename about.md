@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Have been working "forever" with Java on the backend. The last years more and more with Kotlin.
+Kotlin is my preferred language
+
+Mostly work with Spring Boot and Vert.x
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Keep on learning new stuff
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mattias.fagerstrom@gmail.com](mailto:mattias.fagerstrom@gmail.com)
